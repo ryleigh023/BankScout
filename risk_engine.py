@@ -6,7 +6,7 @@ def compute_risk(user_records: List[Dict]) -> List[Dict]:
     Attach risk and fidelity scores to each user's  aggregated record.
 
     Risk score:
-        - Driven by anomaly score from PyOD, failed logins, and after-hours activity
+        - Driven by anomaly score from PyOD, failed  logins, and after-hours activity
         - Optionally boosted by UEBA score if present
 
     Fidelity score:
