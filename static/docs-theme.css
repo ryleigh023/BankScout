@@ -1,0 +1,142 @@
+/* ============================================
+   Swagger UI aesthetic black & pink theme
+   with modern code-style font and styling.
+   Restart uvicorn after changes.
+   ============================================ */
+
+/* Top bar / title area */
+.swagger-ui .topbar {
+  background: #1a1a2e; /* very dark navy-black */
+}
+
+.swagger-ui .topbar .link {
+  color: #ff79c6; /* soft pink */
+}
+
+/* Main background and font */
+.swagger-ui {
+  background-color: #121212; /* near-black */
+  font-family: "Fira Code", "JetBrains Mono", "Source Code Pro", monospace, "Segoe UI", system-ui, sans-serif;
+  color: #f8f8f2; /* off-white for text */
+  font-variant-ligatures: contextual;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+}
+
+/* Operation blocks (GET, POST, etc.) */
+.swagger-ui .opblock.opblock-get {
+  border-color: #ff79c6;
+  background: rgba(255, 121, 198, 0.15);
+  color: #ff79c6;
+}
+
+.swagger-ui .opblock.opblock-post {
+  border-color: #ff79c6;
+  background: rgba(255, 121, 198, 0.12);
+  color: #ff79c6;
+}
+
+.swagger-ui .opblock .opblock-summary-method {
+  border-radius: 6px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Buttons */
+.swagger-ui .btn.execute {
+  background: #ff79c6;
+  border-color: #ff79c6;
+  color: #121212;
+  font-weight: 700;
+  box-shadow: 0 2px 10px rgba(255, 121, 198, 0.5);
+  transition: background-color 0.3s ease;
+}
+
+.swagger-ui .btn.execute:hover {
+  background: #e754b0;
+  border-color: #e754b0;
+  box-shadow: 0 4px 15px rgba(231, 84, 176, 0.7);
+  color: #fff;
+}
+
+/* Response area */
+.swagger-ui .responses-inner h4,
+.swagger-ui .model-box-control {
+  color: #f8f8f2;
+  font-weight: 600;
+}
+
+/* Section headers */
+.swagger-ui .info .title {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #ff79c6;
+  font-family: "Fira Code", monospace, "Segoe UI", system-ui, sans-serif;
+  letter-spacing: 0.05em;
+}
+
+.swagger-ui .info p {
+  color: #f1c0e8; /* soft pastel pink */
+  font-style: italic;
+}
+
+/* Code blocks & schema types */
+.swagger-ui pre,
+.swagger-ui code {
+  background-color: #2e2e3e;
+  color: #ff79c6;
+  font-family: "Fira Code", monospace, "JetBrains Mono", "Source Code Pro", monospace;
+  font-size: 13px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  user-select: text;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* Table headers */
+.swagger-ui table thead th {
+  background-color: #2e2e3e;
+  color: #ff79c6;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+/* Input fields */
+.swagger-ui input[type="text"],
+.swagger-ui textarea {
+  background-color: #1e1e2f;
+  border: 1px solid #ff79c6;
+  color: #f8f8f2;
+  border-radius: 6px;
+  padding: 6px 10px;
+  font-family: "Fira Code", monospace;
+  transition: border-color 0.3s ease;
+}
+
+.swagger-ui input[type="text"]:focus,
+.swagger-ui textarea:focus {
+  border-color: #e754b0;
+  outline: none;
+  box-shadow: 0 0 10px rgba(231, 84, 176, 0.7);
+}
+
+/* Scrollbars */
+.swagger-ui ::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.swagger-ui ::-webkit-scrollbar-track {
+  background: #1a1a2e;
+}
+
+.swagger-ui ::-webkit-scrollbar-thumb {
+  background: #ff79c6;
+  border-radius: 10px;
+}
+
+.swagger-ui ::-webkit-scrollbar-thumb:hover {
+  background: #e754b0;
+}

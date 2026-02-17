@@ -1,0 +1,324 @@
+[
+  {
+    "timestamp": "2026-02-17T10:00:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:01:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:02:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:03:00",
+    "user": "employee_01",
+    "ip": "10.0.0.5",
+    "event_type": "login_success",
+    "device": "corporate_laptop"
+  },
+  {
+    "timestamp": "2026-02-17T10:00:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:01:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:02:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:03:00",
+    "user": "employee_01",
+    "ip": "10.0.0.5",
+    "event_type": "login_success",
+    "device": "corporate_laptop"
+  },
+  {
+    "timestamp": "2026-02-17T10:00:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:01:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:02:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:03:00",
+    "user": "employee_01",
+    "ip": "10.0.0.5",
+    "event_type": "login_success",
+    "device": "corporate_laptop"
+  },
+  {
+    "timestamp": "2026-02-18T09:30:00Z",
+    "user": "alice",
+    "ip": "10.1.1.10",
+    "event_type": "failed_login",
+    "device": "laptop-01"
+  },
+  {
+    "timestamp": "2026-02-18T09:32:00Z",
+    "user": "alice",
+    "ip": "10.1.1.10",
+    "event_type": "successful_login",
+    "device": "laptop-01"
+  },
+  {
+    "timestamp": "2026-02-18T09:45:00Z",
+    "user": "alice",
+    "ip": "10.1.1.10",
+    "event_type": "privilege_escalation",
+    "device": "laptop-01"
+  },
+  {
+    "timestamp": "2026-02-17T10:00:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:05:00",
+    "user": "employee_01",
+    "ip": "10.0.0.5",
+    "event_type": "login_success",
+    "device": "corporate_laptop"
+  },
+  {
+    "timestamp": "2026-02-17T02:30:00",
+    "user": "treasury_user",
+    "ip": "10.0.0.12",
+    "event_type": "privilege_escalation_attempt",
+    "device": "workstation"
+  },
+  {
+    "timestamp": "2026-02-17T10:00:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:05:00",
+    "user": "employee_01",
+    "ip": "10.0.0.5",
+    "event_type": "login_success",
+    "device": "corporate_laptop"
+  },
+  {
+    "timestamp": "2026-02-17T02:30:00",
+    "user": "treasury_user",
+    "ip": "10.0.0.12",
+    "event_type": "privilege_escalation_attempt",
+    "device": "workstation"
+  },
+  {
+    "timestamp": "2026-02-17T10:00:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:05:00",
+    "user": "employee_01",
+    "ip": "10.0.0.5",
+    "event_type": "login_success",
+    "device": "corporate_laptop"
+  },
+  {
+    "timestamp": "2026-02-17T02:30:00",
+    "user": "treasury_user",
+    "ip": "10.0.0.12",
+    "event_type": "privilege_escalation_attempt",
+    "device": "workstation"
+  },
+  {
+    "timestamp": "string",
+    "user": "string",
+    "ip": "string",
+    "event_type": "string",
+    "device": "string"
+  },
+  {
+    "timestamp": "2026-02-17T10:00:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:05:00",
+    "user": "employee_01",
+    "ip": "10.0.0.5",
+    "event_type": "login_success",
+    "device": "corporate_laptop"
+  },
+  {
+    "timestamp": "2026-02-17T02:30:00",
+    "user": "treasury_user",
+    "ip": "10.0.0.12",
+    "event_type": "privilege_escalation_attempt",
+    "device": "workstation"
+  },
+  {
+    "timestamp": "2026-02-17T10:00:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:05:00",
+    "user": "employee_01",
+    "ip": "10.0.0.5",
+    "event_type": "login_success",
+    "device": "corporate_laptop"
+  },
+  {
+    "timestamp": "2026-02-17T02:30:00",
+    "user": "treasury_user",
+    "ip": "10.0.0.12",
+    "event_type": "privilege_escalation_attempt",
+    "device": "workstation"
+  },
+  {
+    "timestamp": "2026-02-17T10:00:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:05:00",
+    "user": "employee_01",
+    "ip": "10.0.0.5",
+    "event_type": "login_success",
+    "device": "corporate_laptop"
+  },
+  {
+    "timestamp": "2026-02-17T02:30:00",
+    "user": "treasury_user",
+    "ip": "10.0.0.12",
+    "event_type": "privilege_escalation_attempt",
+    "device": "workstation"
+  },
+  {
+    "timestamp": "2026-02-17T10:00:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:05:00",
+    "user": "employee_01",
+    "ip": "10.0.0.5",
+    "event_type": "login_success",
+    "device": "corporate_laptop"
+  },
+  {
+    "timestamp": "2026-02-17T02:30:00",
+    "user": "treasury_user",
+    "ip": "10.0.0.12",
+    "event_type": "privilege_escalation_attempt",
+    "device": "workstation"
+  },
+  {
+    "timestamp": "2026-02-17T10:00:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:05:00",
+    "user": "employee_01",
+    "ip": "10.0.0.5",
+    "event_type": "login_success",
+    "device": "corporate_laptop"
+  },
+  {
+    "timestamp": "2026-02-17T02:30:00",
+    "user": "treasury_user",
+    "ip": "10.0.0.12",
+    "event_type": "privilege_escalation_attempt",
+    "device": "workstation"
+  },
+  {
+    "timestamp": "2026-02-17T10:00:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:05:00",
+    "user": "employee_01",
+    "ip": "10.0.0.5",
+    "event_type": "login_success",
+    "device": "corporate_laptop"
+  },
+  {
+    "timestamp": "2026-02-17T02:30:00",
+    "user": "treasury_user",
+    "ip": "10.0.0.12",
+    "event_type": "privilege_escalation_attempt",
+    "device": "workstation"
+  },
+  {
+    "timestamp": "2026-02-17T10:00:00",
+    "user": "loan_admin",
+    "ip": "185.44.22.91",
+    "event_type": "login_fail",
+    "device": "unknown_device"
+  },
+  {
+    "timestamp": "2026-02-17T10:05:00",
+    "user": "employee_01",
+    "ip": "10.0.0.5",
+    "event_type": "login_success",
+    "device": "corporate_laptop"
+  },
+  {
+    "timestamp": "2026-02-17T02:30:00",
+    "user": "treasury_user",
+    "ip": "10.0.0.12",
+    "event_type": "privilege_escalation_attempt",
+    "device": "workstation"
+  }
+]

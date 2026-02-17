@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+numpy
+scikit-learn
+pyod
+tsfresh
+elasticsearch
+langchain
+langgraph
+langchain-community
+ollama
+transformers
+python-dotenv
+
