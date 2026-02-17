@@ -12,7 +12,7 @@ def compute_risk(user_records: List[Dict]) -> List[Dict]:
     Fidelity score:
         - How confident we are that this is a *true* security issue
         - Increases when multiple independent signals fire (failed logins,
-          after-hours, UEBA anomaly, PyOD anomaly)
+          after-hours, UEBA anomaly, PyOD anomaly )
     """
 
     enriched_records: List[Dict] = []
