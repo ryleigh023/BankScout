@@ -1,6 +1,8 @@
 # BankScout – Cyber Incident Response Agent
 
-A **fully local**, banking-grade incident response agent that ingests security alerts (SIEM/EDR), runs anomaly detection and UEBA, and generates step-by-step playbooks. Built for environments where data must stay on-prem and no external APIs are allowed.
+Team CodeX - for Hack-O-Hire'26
+
+A fully local, banking-grade incident response agent that ingests security alerts (SIEM/EDR), runs anomaly detection and UEBA, and generates step-by-step playbooks. Built for environments where data must stay on-prem and no external APIs are allowed.
 
 ## Quick start
 
